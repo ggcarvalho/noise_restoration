@@ -4,4 +4,4 @@ Studying noise types and image restoration.
 
 ## Remark
 
-- Both images have the same noise characterist in each channel.
+- Both images have the same unknown noise characteristics in each channel.
