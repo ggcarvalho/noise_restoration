@@ -1,1 +1,3 @@
-# noise_restoration
+# Image restoration
+
+Analysis and restorarion of images. 
